@@ -1,9 +1,9 @@
 Package: myPackage
-Title: What the Package Does (One Line, Title Case)
+Title: Summarize Installed R Packages by Library
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: This is a practice package that we build during the RaukR course
+    person("Anna", "Gardell", , "annagar@kth.se", role = c("aut", "cre"))
+Description: This is a practice package built during the RaukR course. It provides a function to summarize the number of installed R packages in each library path in your R environment.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
